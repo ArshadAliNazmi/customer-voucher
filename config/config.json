@@ -1,0 +1,9 @@
+{
+  "development": {
+    "username": "root",
+    "password": "Vivaan@2810",
+    "database": "customer-voucher",
+    "host": "localhost",
+    "dialect": "mysql"
+  }
+}
